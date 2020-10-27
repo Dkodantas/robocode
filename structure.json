@@ -1,0 +1,7 @@
+{
+	"name": "MeuRobo",
+    "tag": "meurobo",
+    "pilot": "Andre Dantas",
+    "mainFile": "MeuRobo.java",
+    "supportFiles": ["MeuRobo.java"]
+ }       
